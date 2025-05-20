@@ -49,4 +49,4 @@ jmeter-api-test/
 ## 📌 Autor
 
 Harol Sastoque – QA Manual y Automatizado  
-[Portafolio](https://harolsastoque.github.io)
+[Portafolio](https://harolsastoque.github.io/HarolSastoque/)
